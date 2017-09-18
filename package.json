@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/achengit/helloexpress/issues"
   },
-  "homepage": "https://github.com/achengit/helloexpress#readme"
+  "homepage": "https://github.com/achengit/helloexpress#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }
